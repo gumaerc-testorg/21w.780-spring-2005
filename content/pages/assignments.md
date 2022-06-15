@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This section provides a listing of weekly course topics, exercises, and
+  assignments.
 learning_resource_types: []
+ocw_type: ''
 title: Assignments
-type: CourseSection
 uid: c520daf4-8b13-573c-50e6-64c54fed4014
 ---
 
-Listing and explanation of course assignments ([PDF]({{< baseurl >}}/resources/assignment21w780))
+Listing and explanation of course assignments ({{% resource_link c69640b2-eacd-6e3e-708d-c4f580d7ff56 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, assignments, grading, course details, and the policy on plagiarism.
 learning_resource_types: []
+ocw_type: ''
 title: Syllabus
-type: CourseSection
 uid: 19abdbfa-3ebc-5b3a-798c-a5eea1d224e6
 ---
 
@@ -25,7 +27,7 @@ Rather than an overarching theme or a unifying project for the whole semester, o
 
 ### Activities
 
-There will be two major writing assignments, as well as numerous shorter assignments. See this listing and explanation of course assignments ([PDF]({{< baseurl >}}/resources/assignment21w780)). Discussion of these written documents will constitute much of our class time. We will also spend some time writing in class, and editing as a group. In addition to traditional written papers, assignments will take different forms, including memos, proposals, and Web sites. Some assignments will be submitted in pairs or larger groups, depending on the number of students in the class.
+There will be two major writing assignments, as well as numerous shorter assignments. See this listing and explanation of course assignments ({{% resource_link c69640b2-eacd-6e3e-708d-c4f580d7ff56 "PDF" %}}). Discussion of these written documents will constitute much of our class time. We will also spend some time writing in class, and editing as a group. In addition to traditional written papers, assignments will take different forms, including memos, proposals, and Web sites. Some assignments will be submitted in pairs or larger groups, depending on the number of students in the class.
 
 Assignments
 -----------

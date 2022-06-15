@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This calendar features highlights of the topics and themes addressed
+  in the course.
 learning_resource_types: []
+ocw_type: ''
 title: Calendar
-type: CourseSection
 uid: 3373a206-6335-f574-3cfe-f6cf6b2754b8
 ---
 

@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section provides citations for required course texts and the readings
+  assigned for each week of the course.
 learning_resource_types: []
+ocw_type: ''
 title: Readings
-type: CourseSection
 uid: fddf7a6e-c4ff-bb79-e2df-6548420d6fb3
 ---
 
