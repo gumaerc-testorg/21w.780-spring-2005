@@ -5,6 +5,7 @@ file: /courses/21w-780-communicating-in-technical-organizations-spring-2005/c696
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: 'Assignments for 21W.780: Communicating in Technical Organization'
 uid: c69640b2-eacd-6e3e-708d-c4f580d7ff56
 ---
 Listing and explanation of course assignments.
-
