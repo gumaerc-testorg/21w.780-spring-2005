@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Listing and explanation of course assignments.
-file: /courses/21w-780-communicating-in-technical-organizations-spring-2005/c69640b2eacd6e3e708dc4f580d7ff56_assignment21w780.pdf
+file: /ol-ocw-studio-app/courses/21w-780-communicating-in-technical-organizations-spring-2005/c69640b2eacd6e3e708dc4f580d7ff56_assignment21w780.pdf
+file_size: 124826
 file_type: application/pdf
 learning_resource_types:
 - Assignments

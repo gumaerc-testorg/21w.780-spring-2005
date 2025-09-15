@@ -42,7 +42,9 @@
   },
   "course_title": "Communicating in Technical Organizations",
   "course_description": "This course has two parallel aims:\n\n1.  To improve student writing about technical subject matters, including forms of writing commonly employed in technical organizations, and\n2.  Critically to examine the nature of technologically-assisted communication, focusing somewhat on professional communication among scientists and engineers. We will often combine these two goals, by practicing critical investigation of communications technologies in written formats (and other media) that employ communications technologies.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.780",
   "course_image_thumbnail": {
@@ -53,6 +55,8 @@
     "Presentation Assignments",
     "Written Assignments"
   ],
-  "site_uid": "a8d83264-d270-4202-b9cb-739d3aeb8f23",
+  "site_uid": "cb144d19-e46d-4e1f-a5a0-95446e03332c",
+  "site_short_id": "21w.780-spring-2005",
+  "site_url_path": "courses/21w-780-communicating-in-technical-organizations-spring-2005",
   "title": "Course Metadata"
 }
