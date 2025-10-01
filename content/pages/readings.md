@@ -15,7 +15,7 @@ Myerson, George, and Martin Heidegger. _Habermas and the Mobile Phone_. Blue Rid
 
 Heidegger, Martin. _The Question Concerning Technology_. New York, NY: Harper Perennial, 1982. ISBN: 9780061319693.
 
-Perelman, Les, et. al. [_The Mayfield Handbook of Technical and Scientific Writing_](http://web.mit.edu/course/21/21.guide/Demo/web/).
+Perelman, Les, et. al. {{% resource_link "02dbf71f-e080-4614-a1e6-334fb3320042" "_The Mayfield Handbook of Technical and Scientific Writing_" %}}.
 
 Other readings to be handed out in class or electronically.
 
@@ -79,7 +79,7 @@ Each student is assigned a topic in his or her field of expertise, and must writ
 {{< tdopen >}}
 
 
-Essay by Tufte, Edward. [_The Cognitive Style of PowerPoint_](http://www.edwardtufte.com/tufte/powerpoint). Cheshire, CT: Graphics Press, LLC. 2003.
+Essay by Tufte, Edward. {{% resource_link "f88a06f8-2fcd-493f-9f4b-8e94da8d965b" "_The Cognitive Style of PowerPoint_" %}}. Cheshire, CT: Graphics Press, LLC. 2003.
 
 Mayfield Handbook. Section 10.
 
@@ -107,7 +107,7 @@ Myerson
 
 Myerson, George, and Heidegger, Martin. _Habermas and the Mobile Phone_. Blue Ridge Summit, PA: Totem Books, 2001. ISBN: 9781840462364.
 
-Mackenzie, Adrian. "The performativity of code: Software and cultures of circulation." ([PDF](http://www.lancs.ac.uk/staff/mackenza/papers/code_performativity.pdf))
+Mackenzie, Adrian. "The performativity of code: Software and cultures of circulation." ({{% resource_link "f1d879af-2bd7-4ea5-8750-754c29bb1c28" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -181,7 +181,7 @@ Web Design Issues
 {{< tdopen >}}
 
 
-[MIT guide to web design](http://ist.mit.edu/services/web/reference)
+{{% resource_link "72e13676-c0f3-4822-ba9e-99b0c5a6041e" "MIT guide to web design" %}}
 
 
 {{< tdclose >}}
@@ -205,7 +205,7 @@ Kittler and Blog Debates
 {{< tdopen >}}
 
 
-Kittler. "[There is No Software](http://raley.english.ucsb.edu/wp-content/Engl800/Kittler-nosoftware.pdf)."
+Kittler. "{{% resource_link "c7f47a49-5ba9-49a6-8cd1-10abf88b8103" "There is No Software" %}}."
 
 
 {{< tdclose >}}
